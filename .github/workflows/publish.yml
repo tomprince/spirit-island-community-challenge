@@ -1,0 +1,41 @@
+---
+name: Publish
+
+on:
+    push:
+        branches: [main]
+    pull_request:
+        branches: [main]
+
+jobs:
+    publish:
+        runs-on: ubuntu-latest
+        strategy:
+            matrix:
+                python-version: [3.9]
+        steps:
+            - uses: actions/checkout@v2
+            - uses: actions/checkout@v2
+              with:
+                  ref: generated
+                  path: generated
+            - name: Set up Python ${{ matrix.python-version }}
+              uses: actions/setup-python@v2
+              with:
+                  python-version: ${{ matrix.python-version }}
+            - name: Generate JSON
+              run: |
+                  python generate.py
+            - uses: actions/upload-artifact@v2
+              with:
+                  name: community-challenge
+                  path: generated/generated.json
+                  if-no-files-found: error
+            - name: Push changeset
+              run: |
+                  cd generated
+                  git config user.name github-actions
+                  git config user.email github-actions@github.com
+                  git commit -m'Generated.' generated.json
+                  git push
+              if: "github.event_name == 'push'"

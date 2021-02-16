@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 
 INDEX = Path("index.json")
-GENERATED = Path("generated.json")
+GENERATED = Path("generated/generated.json")
 
 index = json.loads(INDEX.read_text(encoding="utf-8"))
 generated = {}
