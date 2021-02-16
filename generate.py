@@ -10,7 +10,8 @@ for week in index:
     variants = {}
     path = Path(str(week['number']))
     for name in week['variants']:
-        variant_path = path.joinpath(name + ".json")
+        filename = name.lower().replace(" ", "-")
+        variant_path = path.joinpath(filename).with_suffix(".json")
         variants[name] = json.loads(variant_path.read_text(encoding="utf-8"))
     week['variants'] = variants
     week['variantNames'] = list(variants.keys())
