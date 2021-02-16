@@ -1,21 +1,34 @@
 {
-  "numPlayers": 2,
-  "boardLayout": "Standard",
-  "boards": [
-    "A",
-    "D"
-  ],
-  "extraBoard": false,
-  "adversary": "Brandenburg-Prussia",
-  "adversaryLevel": 6,
-  "adversary2": "None",
-  "adversaryLevel2": 0,
-  "scenario": "None",
-  "spirits": {
-    "Vital Strength of the Earth": "",
-    "Ocean's Hungry Grasp": ""
-  },
-  "bnc": false,
-  "je": false,
-  "broadcast": "Vital on A, Ocean on D"
+    "numPlayers": 2,
+    "boardLayout": "Standard",
+    "boards": [
+        "A",
+        "D"
+    ],
+    "extraBoard": false,
+    "adversary": "Brandenburg-Prussia",
+    "adversary2": "None",
+    "adversaryLevel2": 0,
+    "scenario": "None",
+    "spirits": {
+        "Vital Strength of the Earth": "",
+        "Ocean's Hungry Grasp": ""
+    },
+    "bnc": false,
+    "je": false,
+    "broadcast": "Vital on A, Ocean on D",
+    "difficulties": {
+        "Beginner": {
+            "adversaryLevel": 1
+        },
+        "Intermediate": {
+            "adversaryLevel": 3
+        },
+        "Advanced": {
+            "adversaryLevel": 5
+        },
+        "Expert": {
+            "adversaryLevel": 6
+        }
+    }
 }

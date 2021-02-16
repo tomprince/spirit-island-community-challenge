@@ -7,7 +7,6 @@
     "F"
   ],
   "adversary": "France",
-  "adversaryLevel": 6,
   "adversary2": "None",
   "adversaryLevel2": 0,
   "scenario": "None",
@@ -17,5 +16,19 @@
   },
   "bnc": true,
   "je": true,
-  "broadcast": "Downpour on E, Rampant on F"
+  "broadcast": "Downpour on E, Rampant on F",
+  "difficulties": {
+      "Beginner": {
+          "adversaryLevel": 1
+      },
+      "Intermediate": {
+          "adversaryLevel": 3
+      },
+      "Advanced": {
+          "adversaryLevel": 5
+      },
+      "Expert": {
+          "adversaryLevel": 6
+      }
+  }
 }

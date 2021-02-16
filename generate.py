@@ -12,6 +12,7 @@ for week in index:
     for name in week['variants']:
         filename = name.lower().replace(" ", "-")
         variant_path = path.joinpath(filename).with_suffix(".json")
+        print(f"Loading from {variant_path}")
         variants[name] = json.loads(variant_path.read_text(encoding="utf-8"))
     week['variants'] = variants
     week['variantNames'] = list(variants.keys())

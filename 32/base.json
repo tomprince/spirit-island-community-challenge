@@ -1,20 +1,33 @@
 {
   "numPlayers": 2,
-  "boardLayout": "Balanced",
+  "boardLayout": "Fragment",
   "boards": [
-    "E",
-    "F"
+    "A",
+    "D"
   ],
-  "adversary": "France",
-  "adversaryLevel": 6,
+  "adversary": "England",
   "adversary2": "None",
   "adversaryLevel2": 0,
   "scenario": "None",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Shadows Flicker like Flame": "",
+    "Lightning's Swift Strike": ""
   },
-  "bnc": true,
-  "je": true,
-  "broadcast": "Downpour on E, Rampant on F"
+  "bnc": false,
+  "je": false,
+  "broadcast": "Shadow on A, Lightning on D",
+  "difficulties": {
+      "Beginner": {
+          "adversaryLevel": 1
+      },
+      "Intermediate": {
+          "adversaryLevel": 3
+      },
+      "Advanced": {
+          "adversaryLevel": 5
+      },
+      "Expert": {
+          "adversaryLevel": 6
+      }
+  }
 }
