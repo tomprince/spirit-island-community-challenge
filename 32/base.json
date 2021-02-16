@@ -1,0 +1,20 @@
+{
+  "numPlayers": 2,
+  "boardLayout": "Balanced",
+  "boards": [
+    "E",
+    "F"
+  ],
+  "adversary": "France",
+  "adversaryLevel": 6,
+  "adversary2": "None",
+  "adversaryLevel2": 0,
+  "scenario": "None",
+  "spirits": {
+    "Downpour Drenches the World": "",
+    "A Spread of Rampant Green": ""
+  },
+  "bnc": true,
+  "je": true,
+  "broadcast": "Downpour on E, Rampant on F"
+}

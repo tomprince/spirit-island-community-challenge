@@ -1,0 +1,21 @@
+{
+  "prefaace": "This challenge was inspired by my curiosity. Downpour had a double growth option they can spam effectively with their innate covering the lack of card plays. I wanted to see just how interesting things could get if Downpour was paired with Rampant Green to accelerate their presence placement even more. I’m interested in seeing how this goes, so let's get to the challenge!",
+  "numPlayers": 2,
+  "boardLayout": "Balanced",
+  "boards": [
+    "E",
+    "F"
+  ],
+  "adversary": "France",
+  "adversaryLevel": 6,
+  "adversary2": "None",
+  "adversaryLevel2": 0,
+  "scenario": "None",
+  "spirits": {
+    "Downpour Drenches the World": "",
+    "A Spread of Rampant Green": ""
+  },
+  "bnc": true,
+  "je": true,
+  "broadcast": "Downpour on E, Rampant on F"
+}

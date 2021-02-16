@@ -1,0 +1,21 @@
+{
+  "numPlayers": 2,
+  "boardLayout": "Standard",
+  "boards": [
+    "A",
+    "D"
+  ],
+  "extraBoard": false,
+  "adversary": "Brandenburg-Prussia",
+  "adversaryLevel": 6,
+  "adversary2": "None",
+  "adversaryLevel2": 0,
+  "scenario": "None",
+  "spirits": {
+    "Vital Strength of the Earth": "",
+    "Ocean's Hungry Grasp": ""
+  },
+  "bnc": false,
+  "je": false,
+  "broadcast": "Vital on A, Ocean on D"
+}

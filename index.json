@@ -1,0 +1,18 @@
+[
+  {
+    "number": 33,
+    "date": "2021-02-12",
+    "variants": [
+      "base",
+      "expansion"
+    ]
+  },
+  {
+    "number": 32,
+    "date": "2021-02-05",
+    "variants": [
+      "base",
+      "expansion"
+    ]
+  }
+]
