@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "A",
-    "B"
+    {
+      "board": "A",
+      "spirit": "Thunderspeaker"
+    },
+    {
+      "board": "B",
+      "spirit": "Sharp Fangs Behind the Leaves"
+    }
   ],
   "extra_board": false,
   "adversary": "England",

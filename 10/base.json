@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Opposite Shores",
   "boards": [
-    "A",
-    "B"
+    {
+      "board": "A",
+      "spirit": "Bringer of Dreams and Nightmares"
+    },
+    {
+      "board": "B",
+      "spirit": "A Spread of Rampant Green"
+    }
   ],
   "extra_board": false,
   "adversary": "England",

@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "",
   "boards": [
-    "A",
-    "C"
+    {
+      "board": "A",
+      "spirit": "Bringer of Dreams and Nightmares"
+    },
+    {
+      "board": "C",
+      "spirit": "Vital Strength of the Earth"
+    }
   ],
   "extra_board": false,
   "adversary": "Sweden",

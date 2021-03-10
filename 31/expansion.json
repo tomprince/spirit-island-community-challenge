@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Fragment",
   "boards": [
-    "A",
-    "E"
+    {
+      "board": "A",
+      "spirit": "Bringer of Dreams and Nightmares"
+    },
+    {
+      "board": "E",
+      "spirit": "Shroud of Silent Mist"
+    }
   ],
   "extra_board": false,
   "adversary": "Habsburg",

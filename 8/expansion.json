@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Fragment",
   "boards": [
-    "D",
-    "B"
+    {
+      "board": "D",
+      "spirit": "Heart of the Wildfire"
+    },
+    {
+      "board": "B",
+      "spirit": "Lightning's Swift Strike"
+    }
   ],
   "extra_board": false,
   "adversary": "France",

@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "B",
-    "E"
+    {
+      "board": "B",
+      "spirit": "Heart of the Wildfire"
+    },
+    {
+      "board": "E",
+      "spirit": "Vengeance as a Burning Plague"
+    }
   ],
   "extra_board": false,
   "adversary": "Russia",

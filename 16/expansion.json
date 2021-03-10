@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Fragment",
   "boards": [
-    "A",
-    "F"
+    {
+      "board": "A",
+      "spirit": "Stone's Unyielding Defiance"
+    },
+    {
+      "board": "F",
+      "spirit": "Finder of Paths Unseen"
+    }
   ],
   "extra_board": false,
   "adversary": "Scotland",

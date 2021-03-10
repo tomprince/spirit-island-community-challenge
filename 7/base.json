@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "D",
-    "C"
+    {
+      "board": "D",
+      "spirit": "Bringer of Dreams and Nightmares"
+    },
+    {
+      "board": "C",
+      "spirit": "Ocean's Hungry Grasp"
+    }
   ],
   "extra_board": false,
   "adversary": "Brandenburg-Prussia",

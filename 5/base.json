@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "",
   "boards": [
-    "D",
-    "C"
+    {
+      "board": "D",
+      "spirit": "Bringer of Dreams and Nightmares"
+    },
+    {
+      "board": "C",
+      "spirit": "Shadows Flicker Like Flame"
+    }
   ],
   "extra_board": false,
   "adversary": "Brandenburg-Prussia",

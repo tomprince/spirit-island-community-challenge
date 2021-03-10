@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "",
   "boards": [
-    "D",
-    "B"
+    {
+      "board": "D",
+      "spirit": "Lightning's Swift Strike"
+    },
+    {
+      "board": "B",
+      "spirit": "Thunderspeaker"
+    }
   ],
   "extra_board": false,
   "adversary": "England",

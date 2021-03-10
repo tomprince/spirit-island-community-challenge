@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "B",
-    "E"
+    {
+      "board": "B",
+      "spirit": "Lure of the Deep Wilderness"
+    },
+    {
+      "board": "E",
+      "spirit": "Ocean's Hungry Grasp"
+    }
   ],
   "extra_board": false,
   "adversary": "Russia",

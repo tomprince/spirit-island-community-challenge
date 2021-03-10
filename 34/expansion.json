@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Coastline",
   "boards": [
-    "B",
-    "D"
+    {
+      "board": "B",
+      "spirit": "Shadows Flicker Like Flame"
+    },
+    {
+      "board": "D",
+      "spirit": "Shroud of Silent Mist"
+    }
   ],
   "extra_board": false,
   "adversary": "Brandenburg-Prussia",

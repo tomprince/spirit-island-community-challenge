@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "C",
-    "A"
+    {
+      "board": "C",
+      "spirit": "Sharp Fangs Behind the Leaves"
+    },
+    {
+      "board": "A",
+      "spirit": "River Surges in Sunlight"
+    }
   ],
   "extra_board": false,
   "adversary": "Sweden",

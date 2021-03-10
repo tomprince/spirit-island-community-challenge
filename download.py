@@ -54,7 +54,10 @@ def process_expansion(
     return {
         "numPlayers": 2,
         "boardLayout": board_setup,
-        "boards": [board_1, board_2],
+        "boards": [
+            {"board": board_1, "spirit": spirit_1},
+            {"board": board_2, "spirit": spirit_2},
+        ],
         "extra_board": False,
         "adversary": adversary_1,
         "adversary2": "None",
@@ -105,7 +108,10 @@ def process_base(
     return {
         "numPlayers": 2,
         "boardLayout": board_setup,
-        "boards": [board_1, board_2],
+        "boards": [
+            {"board": board_1, "spirit": spirit_1},
+            {"board": board_2, "spirit": spirit_2},
+        ],
         "extra_board": False,
         "adversary": adversary_1,
         "adversary2": "None",

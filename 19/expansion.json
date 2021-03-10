@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "B",
-    "C"
+    {
+      "board": "B",
+      "spirit": "Shroud of Silent Mist"
+    },
+    {
+      "board": "C",
+      "spirit": "Grinning Trickster Stirs Up Trouble"
+    }
   ],
   "extra_board": false,
   "adversary": "Russia",

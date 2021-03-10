@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "C",
-    "E"
+    {
+      "board": "C",
+      "spirit": "Volcano Looming High"
+    },
+    {
+      "board": "E",
+      "spirit": "Vengeance as a Burning Plague"
+    }
   ],
   "extra_board": false,
   "adversary": "Habsburg",

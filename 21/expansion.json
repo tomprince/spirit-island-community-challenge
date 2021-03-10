@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "A",
-    "B"
+    {
+      "board": "A",
+      "spirit": "Many Minds Move as One"
+    },
+    {
+      "board": "B",
+      "spirit": "Lure of the Deep Wilderness"
+    }
   ],
   "extra_board": false,
   "adversary": "Scotland",

@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "B",
-    "D"
+    {
+      "board": "B",
+      "spirit": "Shifting Memory of Ages"
+    },
+    {
+      "board": "D",
+      "spirit": "Downpour Drenches the World"
+    }
   ],
   "extra_board": false,
   "adversary": "Habsburg",

@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "A",
-    "B"
+    {
+      "board": "A",
+      "spirit": "River Surges in Sunlight"
+    },
+    {
+      "board": "B",
+      "spirit": "Thunderspeaker"
+    }
   ],
   "extra_board": false,
   "adversary": "England",

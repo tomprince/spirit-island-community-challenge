@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "A",
-    "C"
+    {
+      "board": "A",
+      "spirit": "Shifting Memory of Ages"
+    },
+    {
+      "board": "C",
+      "spirit": "Grinning Trickster Stirs Up Trouble"
+    }
   ],
   "extra_board": false,
   "adversary": "France",

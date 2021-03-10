@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "A",
-    "C"
+    {
+      "board": "A",
+      "spirit": "Serpent Slumbering Beneath the Island"
+    },
+    {
+      "board": "C",
+      "spirit": "Vital Strength of the Earth"
+    }
   ],
   "extra_board": false,
   "adversary": "Brandenburg-Prussia",

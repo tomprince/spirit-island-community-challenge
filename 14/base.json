@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "A",
-    "B"
+    {
+      "board": "A",
+      "spirit": "A Spread of Rampant Green"
+    },
+    {
+      "board": "B",
+      "spirit": "Vital Strength of the Earth"
+    }
   ],
   "extra_board": false,
   "adversary": "Brandenburg-Prussia",

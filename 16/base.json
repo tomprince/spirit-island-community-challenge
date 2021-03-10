@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "C",
-    "D"
+    {
+      "board": "C",
+      "spirit": "Ocean's Hungry Grasp"
+    },
+    {
+      "board": "D",
+      "spirit": "Thunderspeaker"
+    }
   ],
   "extra_board": false,
   "adversary": "England",

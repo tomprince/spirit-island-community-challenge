@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Coastline",
   "boards": [
-    "A",
-    "C"
+    {
+      "board": "A",
+      "spirit": "Finder of Paths Unseen"
+    },
+    {
+      "board": "C",
+      "spirit": "Shifting Memory of Ages"
+    }
   ],
   "extra_board": false,
   "adversary": "Scotland",

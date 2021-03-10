@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "B",
-    "C"
+    {
+      "board": "B",
+      "spirit": "Bringer of Dreams and Nightmares"
+    },
+    {
+      "board": "C",
+      "spirit": "Thunderspeaker"
+    }
   ],
   "extra_board": false,
   "adversary": "England",

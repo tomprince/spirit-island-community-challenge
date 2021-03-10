@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "B",
-    "F"
+    {
+      "board": "B",
+      "spirit": "Finder of Paths Unseen"
+    },
+    {
+      "board": "F",
+      "spirit": "Volcano Looming High"
+    }
   ],
   "extra_board": false,
   "adversary": "Habsburg",

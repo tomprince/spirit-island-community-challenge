@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "A",
-    "E"
+    {
+      "board": "A",
+      "spirit": "Fractured Days Split the Sky"
+    },
+    {
+      "board": "E",
+      "spirit": "Many Minds Move as One"
+    }
   ],
   "extra_board": false,
   "adversary": "Scotland",

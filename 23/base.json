@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "B",
-    "C"
+    {
+      "board": "B",
+      "spirit": "Vital Strength of the Earth"
+    },
+    {
+      "board": "C",
+      "spirit": "Shadows Flicker Like Flame"
+    }
   ],
   "extra_board": false,
   "adversary": "Sweden",

@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "C",
-    "D"
+    {
+      "board": "C",
+      "spirit": "Ocean's Hungry Grasp"
+    },
+    {
+      "board": "D",
+      "spirit": "Lightning's Swift Strike"
+    }
   ],
   "extra_board": false,
   "adversary": "Brandenburg-Prussia",

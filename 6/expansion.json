@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "",
   "boards": [
-    "A",
-    "B"
+    {
+      "board": "A",
+      "spirit": "A Spread of Rampant Green"
+    },
+    {
+      "board": "B",
+      "spirit": "Keeper of the Forbidden Wilds"
+    }
   ],
   "extra_board": false,
   "adversary": "France",

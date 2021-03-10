@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Coastline",
   "boards": [
-    "B",
-    "C"
+    {
+      "board": "B",
+      "spirit": "Ocean's Hungry Grasp"
+    },
+    {
+      "board": "C",
+      "spirit": "Vital Strength of the Earth"
+    }
   ],
   "extra_board": false,
   "adversary": "Brandenburg-Prussia",

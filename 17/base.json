@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "A",
-    "C"
+    {
+      "board": "A",
+      "spirit": "Lightning's Swift Strike"
+    },
+    {
+      "board": "C",
+      "spirit": "River Surges in Sunlight"
+    }
   ],
   "extra_board": false,
   "adversary": "Brandenburg-Prussia",

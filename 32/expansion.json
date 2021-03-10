@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "E",
-    "F"
+    {
+      "board": "E",
+      "spirit": "Downpour Drenches the World"
+    },
+    {
+      "board": "F",
+      "spirit": "A Spread of Rampant Green"
+    }
   ],
   "extra_board": false,
   "adversary": "France",

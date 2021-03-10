@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Fragment 2",
   "boards": [
-    "D",
-    "B"
+    {
+      "board": "D",
+      "spirit": "Ocean's Hungry Grasp"
+    },
+    {
+      "board": "B",
+      "spirit": "Lightning's Swift Strike"
+    }
   ],
   "extra_board": false,
   "adversary": "England",

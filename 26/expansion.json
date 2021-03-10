@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Fragment 2",
   "boards": [
-    "E",
-    "F"
+    {
+      "board": "E",
+      "spirit": "Finder of Paths Unseen"
+    },
+    {
+      "board": "F",
+      "spirit": "Fractured Days Split the Sky"
+    }
   ],
   "extra_board": false,
   "adversary": "Russia",

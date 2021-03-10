@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Fragment",
   "boards": [
-    "C",
-    "E"
+    {
+      "board": "C",
+      "spirit": "Shifting Memory of Ages"
+    },
+    {
+      "board": "E",
+      "spirit": "Starlight Seeks Its Form"
+    }
   ],
   "extra_board": false,
   "adversary": "Habsburg",

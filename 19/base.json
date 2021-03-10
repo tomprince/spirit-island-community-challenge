@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "A",
-    "B"
+    {
+      "board": "A",
+      "spirit": "Ocean's Hungry Grasp"
+    },
+    {
+      "board": "B",
+      "spirit": "Vital Strength of the Earth"
+    }
   ],
   "extra_board": false,
   "adversary": "Sweden",

@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "A",
-    "F"
+    {
+      "board": "A",
+      "spirit": "Thunderspeaker"
+    },
+    {
+      "board": "F",
+      "spirit": "Many Minds Move as One"
+    }
   ],
   "extra_board": false,
   "adversary": "France",

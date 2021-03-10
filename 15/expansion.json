@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Fragment",
   "boards": [
-    "B",
-    "E"
+    {
+      "board": "B",
+      "spirit": "Starlight Seeks Its Form"
+    },
+    {
+      "board": "E",
+      "spirit": "Lure of the Deep Wilderness"
+    }
   ],
   "extra_board": false,
   "adversary": "Russia",

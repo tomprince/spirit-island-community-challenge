@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "",
   "boards": [
-    "A",
-    "C"
+    {
+      "board": "A",
+      "spirit": "A Spread of Rampant Green"
+    },
+    {
+      "board": "C",
+      "spirit": "Lightning's Swift Strike"
+    }
   ],
   "extra_board": false,
   "adversary": "England",

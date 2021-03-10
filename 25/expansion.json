@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "C",
-    "E"
+    {
+      "board": "C",
+      "spirit": "Serpent Slumbering Beneath the Island"
+    },
+    {
+      "board": "E",
+      "spirit": "Starlight Seeks Its Form"
+    }
   ],
   "extra_board": false,
   "adversary": "England",

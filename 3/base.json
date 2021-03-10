@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "",
   "boards": [
-    "B",
-    "D"
+    {
+      "board": "B",
+      "spirit": "Shadows Flicker Like Flame"
+    },
+    {
+      "board": "D",
+      "spirit": "Thunderspeaker"
+    }
   ],
   "extra_board": false,
   "adversary": "Brandenburg-Prussia",

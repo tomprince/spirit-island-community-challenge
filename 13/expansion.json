@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Fragment",
   "boards": [
-    "A",
-    "C"
+    {
+      "board": "A",
+      "spirit": "River Surges in Sunlight"
+    },
+    {
+      "board": "C",
+      "spirit": "Sharp Fangs Behind the Leaves"
+    }
   ],
   "extra_board": false,
   "adversary": "France",

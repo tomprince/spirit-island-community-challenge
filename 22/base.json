@@ -2,8 +2,14 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "A",
-    "C"
+    {
+      "board": "A",
+      "spirit": "River Surges in Sunlight"
+    },
+    {
+      "board": "C",
+      "spirit": "Bringer of Dreams and Nightmares"
+    }
   ],
   "extra_board": false,
   "adversary": "Brandenburg-Prussia",
