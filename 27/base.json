@@ -1,18 +1,18 @@
 {
   "numPlayers": 2,
-  "boardLayout": "Standard",
+  "boardLayout": "Opposite Shores",
   "boards": [
-    "E",
-    "F"
+    "A",
+    "D"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Sweden",
   "adversary2": "None",
   "adversaryLevel2": 0,
   "scenario": "None",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Ocean's Hungry Grasp": "",
+    "River Surges in Sunlight": ""
   },
   "bnc": false,
   "je": false,

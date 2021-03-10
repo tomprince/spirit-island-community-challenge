@@ -1,18 +1,18 @@
 {
   "numPlayers": 2,
-  "boardLayout": "Standard",
+  "boardLayout": "Coastline",
   "boards": [
-    "E",
-    "F"
+    "B",
+    "C"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "England",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "Rituals of Terror",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Thunderspeaker": "",
+    "Bringer of Dreams and Nightmares": ""
   },
   "bnc": false,
   "je": false,

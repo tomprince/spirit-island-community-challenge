@@ -2,17 +2,17 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "E",
-    "F"
+    "A",
+    "B"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "England",
   "adversary2": "None",
   "adversaryLevel2": 0,
   "scenario": "None",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "River Surges in Sunlight": "",
+    "Thunderspeaker": ""
   },
   "bnc": false,
   "je": false,

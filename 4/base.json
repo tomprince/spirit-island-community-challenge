@@ -1,18 +1,18 @@
 {
   "numPlayers": 2,
-  "boardLayout": "Standard",
+  "boardLayout": "",
   "boards": [
-    "E",
-    "F"
+    "A",
+    "C"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "England",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "Rituals of Terror",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "A Spread of Rampant Green": "",
+    "Lightning's Swift Strike": ""
   },
   "bnc": false,
   "je": false,

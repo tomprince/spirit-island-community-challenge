@@ -1,18 +1,18 @@
 {
   "numPlayers": 2,
-  "boardLayout": "Standard",
+  "boardLayout": "Coastline",
   "boards": [
-    "E",
-    "F"
+    "A",
+    "C"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Scotland",
   "adversary2": "None",
   "adversaryLevel2": 0,
   "scenario": "None",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Finder of Paths Unseen": "",
+    "Shifting Memory of Ages": ""
   },
   "bnc": false,
   "je": false,

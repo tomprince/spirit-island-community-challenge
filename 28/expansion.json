@@ -1,18 +1,18 @@
 {
   "numPlayers": 2,
-  "boardLayout": "Standard",
+  "boardLayout": "Fragment",
   "boards": [
-    "E",
+    "B",
     "F"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Sweden",
   "adversary2": "None",
   "adversaryLevel2": 0,
   "scenario": "None",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Shadows Flicker Like Flame": "Madness",
+    "Vital Strength of the Earth": "Might"
   },
   "bnc": false,
   "je": false,
@@ -27,7 +27,9 @@
       "adversaryLevel": 5
     },
     "Expert": {
-      "adversaryLevel": 6
+      "adversaryLevel": 6,
+      "adversary2": "Scotland",
+      "adversaryLevel2": 1
     }
   }
 }

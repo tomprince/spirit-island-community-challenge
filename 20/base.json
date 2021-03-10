@@ -2,17 +2,17 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "E",
-    "F"
+    "B",
+    "C"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Brandenburg-Prussia",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "Rituals of Terror",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Bringer of Dreams and Nightmares": "",
+    "Lightning's Swift Strike": ""
   },
   "bnc": false,
   "je": false,

@@ -2,17 +2,17 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "E",
-    "F"
+    "B",
+    "D"
   ],
   "extra_board": false,
   "adversary": "France",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "Second Wave",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Keeper of the Forbidden Wilds": "",
+    "Sharp Fangs Behind the Leaves": ""
   },
   "bnc": false,
   "je": false,

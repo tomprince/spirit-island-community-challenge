@@ -1,18 +1,18 @@
 {
   "numPlayers": 2,
-  "boardLayout": "Standard",
+  "boardLayout": "Fragment",
   "boards": [
-    "E",
+    "A",
     "F"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Scotland",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "The Great River",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Stone's Unyielding Defiance": "",
+    "Finder of Paths Unseen": ""
   },
   "bnc": false,
   "je": false,

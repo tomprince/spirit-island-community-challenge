@@ -1,18 +1,18 @@
 {
   "numPlayers": 2,
-  "boardLayout": "Standard",
+  "boardLayout": "Opposite Shores",
   "boards": [
-    "E",
-    "F"
+    "B",
+    "C"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "England",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "Blitz",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "River Surges in Sunlight": "",
+    "Shadows Flicker Like Flame": ""
   },
   "bnc": false,
   "je": false,

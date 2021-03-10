@@ -2,17 +2,17 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "E",
-    "F"
+    "A",
+    "B"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Sweden",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "Dahan Insurrection",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Bringer of Dreams and Nightmares": "",
+    "Lightning's Swift Strike": ""
   },
   "bnc": false,
   "je": false,
@@ -27,7 +27,9 @@
       "adversaryLevel": 5
     },
     "Expert": {
-      "adversaryLevel": 6
+      "adversaryLevel": 6,
+      "adversary2": "Brandenburg-Prussia",
+      "adversaryLevel2": 1
     }
   }
 }

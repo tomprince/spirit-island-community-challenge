@@ -2,17 +2,17 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "E",
-    "F"
+    "D",
+    "C"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Brandenburg-Prussia",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "Dahan Insurrection",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Bringer of Dreams and Nightmares": "",
+    "Ocean's Hungry Grasp": ""
   },
   "bnc": false,
   "je": false,

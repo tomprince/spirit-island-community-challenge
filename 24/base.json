@@ -2,17 +2,17 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "E",
-    "F"
+    "C",
+    "D"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Brandenburg-Prussia",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "Blitz",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Ocean's Hungry Grasp": "",
+    "Lightning's Swift Strike": ""
   },
   "bnc": false,
   "je": false,

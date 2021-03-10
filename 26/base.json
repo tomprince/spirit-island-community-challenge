@@ -1,18 +1,18 @@
 {
   "numPlayers": 2,
-  "boardLayout": "Standard",
+  "boardLayout": "Coastline",
   "boards": [
-    "E",
-    "F"
+    "B",
+    "C"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Brandenburg-Prussia",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "Dahan Insurrection",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Ocean's Hungry Grasp": "",
+    "Vital Strength of the Earth": ""
   },
   "bnc": false,
   "je": false,

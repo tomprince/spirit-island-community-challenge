@@ -1,18 +1,18 @@
 {
   "numPlayers": 2,
-  "boardLayout": "Standard",
+  "boardLayout": "Coastline",
   "boards": [
-    "E",
-    "F"
+    "B",
+    "D"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Brandenburg-Prussia",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "Elemental Invocation",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Shadows Flicker Like Flame": "Madness",
+    "Shroud of Silent Mist": ""
   },
   "bnc": false,
   "je": false,

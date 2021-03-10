@@ -1,17 +1,17 @@
 {
   "numPlayers": 2,
-  "boardLayout": "Standard",
+  "boardLayout": "Coastline",
   "boards": [
-    "E",
-    "F"
+    "A",
+    "B"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Sweden",
   "adversary2": "None",
   "adversaryLevel2": 0,
   "scenario": "None",
   "spirits": {
-    "Downpour Drenches the World": "",
+    "Vital Strength of the Earth": "",
     "A Spread of Rampant Green": ""
   },
   "bnc": false,

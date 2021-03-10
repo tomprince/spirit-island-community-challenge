@@ -2,7 +2,7 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "E",
+    "A",
     "F"
   ],
   "extra_board": false,
@@ -11,8 +11,8 @@
   "adversaryLevel2": 0,
   "scenario": "None",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Thunderspeaker": "",
+    "Many Minds Move as One": ""
   },
   "bnc": false,
   "je": false,

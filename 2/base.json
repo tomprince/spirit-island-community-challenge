@@ -1,18 +1,18 @@
 {
   "numPlayers": 2,
-  "boardLayout": "Standard",
+  "boardLayout": "",
   "boards": [
-    "E",
-    "F"
+    "A",
+    "C"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Sweden",
   "adversary2": "None",
   "adversaryLevel2": 0,
   "scenario": "None",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Bringer of Dreams and Nightmares": "",
+    "Vital Strength of the Earth": ""
   },
   "bnc": false,
   "je": false,
@@ -27,7 +27,9 @@
       "adversaryLevel": 5
     },
     "Expert": {
-      "adversaryLevel": 6
+      "adversaryLevel": 6,
+      "adversary2": "Brandenburg-Prussia",
+      "adversaryLevel2": 1
     }
   }
 }

@@ -2,8 +2,8 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "E",
-    "F"
+    "A",
+    "C"
   ],
   "extra_board": false,
   "adversary": "France",
@@ -11,8 +11,8 @@
   "adversaryLevel2": 0,
   "scenario": "None",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Shifting Memory of Ages": "",
+    "Grinning Trickster Stirs Up Trouble": ""
   },
   "bnc": false,
   "je": false,

@@ -2,17 +2,17 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "E",
-    "F"
+    "C",
+    "E"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Habsburg",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "Elemental Invocation",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Volcano Looming High": "",
+    "Vengeance as a Burning Plague": ""
   },
   "bnc": false,
   "je": false,

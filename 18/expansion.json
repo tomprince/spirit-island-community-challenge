@@ -2,17 +2,17 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "E",
-    "F"
+    "A",
+    "E"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Scotland",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "The Great River",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Fractured Days Split the Sky": "",
+    "Many Minds Move as One": ""
   },
   "bnc": false,
   "je": false,

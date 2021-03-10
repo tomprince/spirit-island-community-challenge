@@ -1,18 +1,18 @@
 {
   "numPlayers": 2,
-  "boardLayout": "Standard",
+  "boardLayout": "",
   "boards": [
-    "E",
-    "F"
+    "A",
+    "B"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Brandenburg-Prussia",
   "adversary2": "None",
   "adversaryLevel2": 0,
   "scenario": "None",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "River Surges in Sunlight": "",
+    "Ocean's Hungry Grasp": ""
   },
   "bnc": false,
   "je": false,

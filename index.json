@@ -1,7 +1,273 @@
 [
   {
-    "number": 33,
-    "date": "2021-02-12",
+    "number": 1,
+    "date": "",
+    "url": "https://www.reddit.com/r/spiritisland/comments/hkkiro/weekly_community_game_1/",
+    "variants": [
+      "Base"
+    ]
+  },
+  {
+    "number": 2,
+    "date": "2020-07-10",
+    "url": "https://www.reddit.com/r/spiritisland/comments/hopvaz/community_challenge_2/",
+    "variants": [
+      "Base"
+    ]
+  },
+  {
+    "number": 3,
+    "date": "2020-07-17",
+    "url": "https://www.reddit.com/r/spiritisland/comments/hsvh3t/community_challenge_3/",
+    "variants": [
+      "Base"
+    ]
+  },
+  {
+    "number": 4,
+    "date": "2020-07-24",
+    "url": "https://www.reddit.com/r/spiritisland/comments/hwq16f/weekly_community_game_4/",
+    "variants": [
+      "Base"
+    ]
+  },
+  {
+    "number": 5,
+    "date": "2020-07-31",
+    "url": "https://www.reddit.com/r/spiritisland/comments/i0sfln/community_challenge_5/",
+    "variants": [
+      "Base"
+    ]
+  },
+  {
+    "number": 6,
+    "date": "2020-08-07",
+    "url": "https://www.reddit.com/r/spiritisland/comments/i5ebar/community_challenge_6/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 7,
+    "date": "2020-08-14",
+    "url": "https://www.reddit.com/r/spiritisland/comments/i9mh03/community_challenge_7/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 8,
+    "date": "2020-08-21",
+    "url": "https://www.reddit.com/r/spiritisland/comments/idx8re/community_challenge_8/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 9,
+    "date": "2020-08-28",
+    "url": "https://www.reddit.com/r/spiritisland/comments/ii7iyc/community_challenge_9/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 10,
+    "date": "2020-09-04",
+    "url": "https://www.reddit.com/r/spiritisland/comments/imgfzk/community_challenge_10/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 11,
+    "date": "2020-09-11",
+    "url": "https://www.reddit.com/r/spiritisland/comments/iqr0f5/community_challenge_11/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 12,
+    "date": "2020-09-18",
+    "url": "https://www.reddit.com/r/spiritisland/comments/iv6l9n/community_challenge_12/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 13,
+    "date": "2020-09-25",
+    "url": "https://www.reddit.com/r/spiritisland/comments/izjxm7/community_challenge_13/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 14,
+    "date": "2020-10-02",
+    "url": "https://www.reddit.com/r/spiritisland/comments/j3uza8/community_challenge_14/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 15,
+    "date": "2020-10-09",
+    "url": "https://www.reddit.com/r/spiritisland/comments/j7zgal/community_challenge_15/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 16,
+    "date": "2020-10-16",
+    "url": "https://www.reddit.com/r/spiritisland/comments/jcab9u/community_challenge_16/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 17,
+    "date": "2020-10-23",
+    "url": "https://www.reddit.com/r/spiritisland/comments/jgnn1c/community_challenge_17/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 18,
+    "date": "2020-10-30",
+    "url": "https://www.reddit.com/r/spiritisland/comments/jkx9m5/community_challenge_18/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 19,
+    "date": "2020-11-06",
+    "url": "https://www.reddit.com/r/spiritisland/comments/jp6k0a/community_challenge_19/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 20,
+    "date": "2020-11-13",
+    "url": "https://www.reddit.com/r/spiritisland/comments/jth4nd/community_challenge_20/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 21,
+    "date": "2020-11-20",
+    "url": "https://www.reddit.com/r/spiritisland/comments/jxqj10/community_challenge_21/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 22,
+    "date": "2020-11-27",
+    "url": "https://www.reddit.com/r/spiritisland/comments/k22mqm/community_challenge_22/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 23,
+    "date": "2020-12-04",
+    "url": "https://www.reddit.com/r/spiritisland/comments/k6mfss/community_challenge_23/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 24,
+    "date": "2020-12-11",
+    "url": "https://www.reddit.com/r/spiritisland/comments/kb4clz/community_challenge_24/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 25,
+    "date": "2020-12-18",
+    "url": "https://www.reddit.com/r/spiritisland/comments/kfmvhs/community_challenge_25/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 26,
+    "date": "2020-12-25",
+    "url": "https://www.reddit.com/r/spiritisland/comments/kjz1k9/community_challenge_26/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 27,
+    "date": "2021-01-01",
+    "url": "https://www.reddit.com/r/spiritisland/comments/kockla/community_challenge_27/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 28,
+    "date": "2021-01-08",
+    "url": "https://www.reddit.com/r/spiritisland/comments/kt42xt/community_challenge_27/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 29,
+    "date": "2021-01-15",
+    "url": "https://www.reddit.com/r/spiritisland/comments/kxw6j6/community_challenge_29/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 30,
+    "date": "2021-01-22",
+    "url": "https://www.reddit.com/r/spiritisland/comments/l2pf7n/community_challenge_30/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 31,
+    "date": "2021-01-29",
+    "url": "https://www.reddit.com/r/spiritisland/comments/l7ulfs/community_challenge_31/",
     "variants": [
       "Base",
       "Expansion"
@@ -10,6 +276,34 @@
   {
     "number": 32,
     "date": "2021-02-05",
+    "url": "https://www.reddit.com/r/spiritisland/comments/ld8w8i/community_challenge_32/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 33,
+    "date": "2021-02-12",
+    "url": "https://www.reddit.com/r/spiritisland/comments/licpbk/community_challenge_33/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 34,
+    "date": "2021-02-19",
+    "url": "https://www.reddit.com/r/spiritisland/comments/lnhvah/community_challenge_34/",
+    "variants": [
+      "Base",
+      "Expansion"
+    ]
+  },
+  {
+    "number": 35,
+    "date": "2021-02-26",
+    "url": "https://www.reddit.com/r/spiritisland/comments/lszewz/community_challenge_35/",
     "variants": [
       "Base",
       "Expansion"

@@ -1,18 +1,18 @@
 {
   "numPlayers": 2,
-  "boardLayout": "Standard",
+  "boardLayout": "Fragment",
   "boards": [
-    "E",
-    "F"
+    "B",
+    "E"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Russia",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "Varied Terrains",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Starlight Seeks Its Form": "",
+    "Lure of the Deep Wilderness": ""
   },
   "bnc": false,
   "je": false,

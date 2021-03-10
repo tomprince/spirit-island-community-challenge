@@ -1,18 +1,18 @@
 {
   "numPlayers": 2,
-  "boardLayout": "Standard",
+  "boardLayout": "",
   "boards": [
-    "E",
-    "F"
+    "B",
+    "D"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Brandenburg-Prussia",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "Dahan Insurrection",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Shadows Flicker Like Flame": "",
+    "Thunderspeaker": ""
   },
   "bnc": false,
   "je": false,

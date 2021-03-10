@@ -2,17 +2,17 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "E",
-    "F"
+    "B",
+    "E"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Russia",
   "adversary2": "None",
   "adversaryLevel2": 0,
   "scenario": "None",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Heart of the Wildfire": "",
+    "Vengeance as a Burning Plague": ""
   },
   "bnc": false,
   "je": false,

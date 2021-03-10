@@ -5,29 +5,29 @@
     "A",
     "D"
   ],
+  "extra_board": false,
   "adversary": "England",
   "adversary2": "None",
   "adversaryLevel2": 0,
   "scenario": "None",
   "spirits": {
-    "Shadows Flicker like Flame": "",
+    "Shadows Flicker Like Flame": "",
     "Lightning's Swift Strike": ""
   },
   "bnc": false,
   "je": false,
-  "broadcast": "Shadow on A, Lightning on D",
   "difficulties": {
-      "Beginner": {
-          "adversaryLevel": 1
-      },
-      "Intermediate": {
-          "adversaryLevel": 3
-      },
-      "Advanced": {
-          "adversaryLevel": 5
-      },
-      "Expert": {
-          "adversaryLevel": 6
-      }
+    "Beginner": {
+      "adversaryLevel": 1
+    },
+    "Intermediate": {
+      "adversaryLevel": 3
+    },
+    "Advanced": {
+      "adversaryLevel": 5
+    },
+    "Expert": {
+      "adversaryLevel": 6
+    }
   }
 }

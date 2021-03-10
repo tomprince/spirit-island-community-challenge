@@ -2,32 +2,34 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "E",
-    "F"
+    "B",
+    "D"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Sweden",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "Guard the Isle's Heart",
   "spirits": {
-    "Downpour Drenches the World": "",
+    "Shadows Flicker Like Flame": "",
     "A Spread of Rampant Green": ""
   },
   "bnc": false,
   "je": false,
   "difficulties": {
     "Beginner": {
-      "adversaryLevel": 1
+      "adversaryLevel": 2
     },
     "Intermediate": {
-      "adversaryLevel": 3
+      "adversaryLevel": 4
     },
     "Advanced": {
-      "adversaryLevel": 5
+      "adversaryLevel": 6
     },
     "Expert": {
-      "adversaryLevel": 6
+      "adversaryLevel": 6,
+      "adversary2": "Brandenburg-Prussia",
+      "adversaryLevel2": 1
     }
   }
 }

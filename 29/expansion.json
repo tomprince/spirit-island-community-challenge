@@ -2,17 +2,17 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "E",
-    "F"
+    "A",
+    "E"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Habsburg",
   "adversary2": "None",
   "adversaryLevel2": 0,
   "scenario": "None",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Lightning's Swift Strike": "Immense",
+    "River Surges in Sunlight": "Travel"
   },
   "bnc": false,
   "je": false,

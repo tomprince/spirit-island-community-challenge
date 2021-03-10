@@ -2,16 +2,16 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "E",
-    "F"
+    "A",
+    "B"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Brandenburg-Prussia",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "Blitz",
   "spirits": {
-    "Downpour Drenches the World": "",
+    "Bringer of Dreams and Nightmares": "",
     "A Spread of Rampant Green": ""
   },
   "bnc": false,

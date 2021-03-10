@@ -1,9 +1,9 @@
 {
   "numPlayers": 2,
-  "boardLayout": "Standard",
+  "boardLayout": "Fragment",
   "boards": [
-    "E",
-    "F"
+    "D",
+    "B"
   ],
   "extra_board": false,
   "adversary": "France",
@@ -11,8 +11,8 @@
   "adversaryLevel2": 0,
   "scenario": "None",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Heart of the Wildfire": "",
+    "Lightning's Swift Strike": ""
   },
   "bnc": false,
   "je": false,

@@ -1,18 +1,18 @@
 {
   "numPlayers": 2,
-  "boardLayout": "Standard",
+  "boardLayout": "Fragment 2",
   "boards": [
-    "E",
-    "F"
+    "D",
+    "B"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "England",
   "adversary2": "None",
   "adversaryLevel2": 0,
   "scenario": "None",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Ocean's Hungry Grasp": "",
+    "Lightning's Swift Strike": ""
   },
   "bnc": false,
   "je": false,

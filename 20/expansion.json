@@ -1,18 +1,18 @@
 {
   "numPlayers": 2,
-  "boardLayout": "Standard",
+  "boardLayout": "Fragment",
   "boards": [
-    "E",
-    "F"
+    "C",
+    "E"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Habsburg",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "Varied Terrains",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Shifting Memory of Ages": "",
+    "Starlight Seeks Its Form": ""
   },
   "bnc": false,
   "je": false,

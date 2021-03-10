@@ -1,18 +1,18 @@
 {
   "numPlayers": 2,
-  "boardLayout": "Standard",
+  "boardLayout": "",
   "boards": [
-    "E",
-    "F"
+    "D",
+    "B"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "England",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "Guard the Isle's Heart",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Lightning's Swift Strike": "",
+    "Thunderspeaker": ""
   },
   "bnc": false,
   "je": false,

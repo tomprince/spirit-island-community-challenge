@@ -2,17 +2,17 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "E",
-    "F"
+    "B",
+    "C"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Russia",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "Elemental Invocation",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Shroud of Silent Mist": "",
+    "Grinning Trickster Stirs Up Trouble": ""
   },
   "bnc": false,
   "je": false,

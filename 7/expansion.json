@@ -2,32 +2,34 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "A",
-    "B"
+    "C",
+    "A"
   ],
   "extra_board": false,
   "adversary": "Sweden",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "Powers Long Forgotten",
   "spirits": {
-    "Grinning Trickster Stirs Up Trouble": "",
-    "Stone's Unyielding Defiance": ""
+    "Sharp Fangs Behind the Leaves": "",
+    "River Surges in Sunlight": ""
   },
   "bnc": false,
   "je": false,
   "difficulties": {
     "Beginner": {
-      "adversaryLevel": 1
+      "adversaryLevel": 2
     },
     "Intermediate": {
-      "adversaryLevel": 3
+      "adversaryLevel": 4
     },
     "Advanced": {
-      "adversaryLevel": 5
+      "adversaryLevel": 6
     },
     "Expert": {
-      "adversaryLevel": 6
+      "adversaryLevel": 6,
+      "adversary2": "England",
+      "adversaryLevel2": 1
     }
   }
 }

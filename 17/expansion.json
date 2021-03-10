@@ -2,17 +2,17 @@
   "numPlayers": 2,
   "boardLayout": "Standard",
   "boards": [
-    "E",
-    "F"
+    "B",
+    "D"
   ],
   "extra_board": false,
-  "adversary": "France",
+  "adversary": "Habsburg",
   "adversary2": "None",
   "adversaryLevel2": 0,
-  "scenario": "None",
+  "scenario": "A Diversity of Spirits",
   "spirits": {
-    "Downpour Drenches the World": "",
-    "A Spread of Rampant Green": ""
+    "Shifting Memory of Ages": "",
+    "Downpour Drenches the World": ""
   },
   "bnc": false,
   "je": false,
